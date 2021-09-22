@@ -4,7 +4,7 @@
 
 ![](resources/img/wheel.png)
 
-## In this exercise you will create your own random name generator!
+## In this exercise you will create your own Random Name Generator!
 
 ### **Directions:**
 
